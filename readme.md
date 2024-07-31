@@ -2,6 +2,8 @@
 
 ```bash
 source venv/bin/activate
+OR
+sh activate_venv.sh
 python --version
 ```
 
